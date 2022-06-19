@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <hr/>
 <div>
   <a href="https://github.com/cvmartins1996">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvmartins1996&langs_count=8&show_icons=true&theme=dracula"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvmartins1996&langs_count=8&show_icons=true&theme=dracula&include_all_commits=true"/></a>
 </div>
 
