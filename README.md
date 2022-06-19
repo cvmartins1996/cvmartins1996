@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/cvmartins1996">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvmartins1996&show_icons=true&include_all_commits=true&count_private=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvmartins1996&langs_count=8&show_icons=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29&hide=php"/></a>
-</div>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvmartins1996&show_icons=true&include_all_commits=true&count_private=true&include_all_commits=true&theme=dracula"/>
 
  
 </div>
+<hr/>
+<div>
+  <a href="https://github.com/cvmartins1996">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvmartins1996&langs_count=8&show_icons=true&theme=dracula"/></a>
+</div>
+
