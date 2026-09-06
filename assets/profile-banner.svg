@@ -1,32 +1,24 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111827"/>
-      <stop offset="0.5" stop-color="#312E81"/>
-      <stop offset="1" stop-color="#581C87"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#27205F"/>
+      <stop offset="1" stop-color="#4C1D64"/>
     </linearGradient>
-    <linearGradient id="accent" x1="90" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="50" y1="0" x2="530" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="0.48" stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#F472B6"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
   </defs>
 
-  <rect width="1000" height="260" rx="22" fill="url(#bg)"/>
-  <rect width="1000" height="260" rx="22" fill="url(#grid)"/>
-  <circle cx="870" cy="35" r="170" fill="#A78BFA" fill-opacity="0.08"/>
-  <circle cx="930" cy="230" r="120" fill="#38BDF8" fill-opacity="0.06"/>
+  <rect width="720" height="220" rx="18" fill="url(#bg)"/>
+  <circle cx="650" cy="25" r="115" fill="#A78BFA" fill-opacity="0.07"/>
+  <circle cx="690" cy="205" r="90" fill="#38BDF8" fill-opacity="0.05"/>
 
-  <rect x="64" y="58" width="8" height="142" rx="4" fill="url(#accent)"/>
-
-  <text x="100" y="92" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1">CAIO VINICIUS MARTINS</text>
-  <text x="100" y="132" fill="#C4B5FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="21" font-weight="600">Software Engineer · Tech Lead</text>
-  <text x="100" y="169" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17">Backend · Cloud · Mobile · Game Systems · AI-assisted Engineering</text>
-  <text x="100" y="203" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14">Java &amp; AWS at the core · currently shipping Kotlin, C++, GDScript and Python</text>
-
-  <rect x="758" y="92" width="150" height="42" rx="21" fill="#0F172A" fill-opacity="0.65" stroke="#A78BFA" stroke-opacity="0.55"/>
-  <text x="833" y="119" text-anchor="middle" fill="#EDE9FE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">BUILD · SHIP · LEARN</text>
+  <rect x="42" y="45" width="6" height="126" rx="3" fill="url(#line)"/>
+  <text x="68" y="76" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="29" font-weight="700">Caio Vinicius Martins</text>
+  <text x="68" y="110" fill="#C4B5FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="600">Software Engineer · Tech Lead</text>
+  <text x="68" y="143" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15">Backend · Cloud · Mobile · Game Systems</text>
+  <text x="68" y="170" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14">Java + AWS core · Kotlin · C++ · GDScript · Python</text>
 </svg>
