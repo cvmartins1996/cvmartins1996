@@ -1,0 +1,29 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="330" rx="22" fill="#0F172A"/>
+  <rect x="1" y="1" width="998" height="328" rx="21" stroke="#334155"/>
+
+  <text x="52" y="56" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">Recent development focus</text>
+  <text x="52" y="84" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14">Aggregated from recent work, including private repositories · names and project details remain private</text>
+
+  <text x="52" y="132" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">Kotlin / Android</text>
+  <rect x="220" y="116" width="650" height="22" rx="11" fill="#1E293B"/>
+  <rect x="220" y="116" width="552" height="22" rx="11" fill="#7C3AED"/>
+  <text x="890" y="132" fill="#C4B5FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" text-anchor="end">primary</text>
+
+  <text x="52" y="181" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">C++ / Unreal</text>
+  <rect x="220" y="165" width="650" height="22" rx="11" fill="#1E293B"/>
+  <rect x="220" y="165" width="403" height="22" rx="11" fill="#2563EB"/>
+  <text x="890" y="181" fill="#93C5FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" text-anchor="end">active</text>
+
+  <text x="52" y="230" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">GDScript / Godot</text>
+  <rect x="220" y="214" width="650" height="22" rx="11" fill="#1E293B"/>
+  <rect x="220" y="214" width="351" height="22" rx="11" fill="#0EA5E9"/>
+  <text x="890" y="230" fill="#7DD3FC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" text-anchor="end">active</text>
+
+  <text x="52" y="279" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">Python / Tooling</text>
+  <rect x="220" y="263" width="650" height="22" rx="11" fill="#1E293B"/>
+  <rect x="220" y="263" width="247" height="22" rx="11" fill="#EAB308"/>
+  <text x="890" y="279" fill="#FDE68A" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" text-anchor="end">supporting</text>
+
+  <text x="52" y="312" fill="#64748B" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">The bars indicate relative recent focus, not GitHub Linguist byte percentages.</text>
+</svg>
